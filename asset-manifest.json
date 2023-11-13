@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/PostItSimulator/static/js/main.e2306601.js",
+    "index.html": "/PostItSimulator/index.html",
+    "main.e2306601.js.map": "/PostItSimulator/static/js/main.e2306601.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2306601.js"
+  ]
+}
